@@ -1,0 +1,13 @@
+name: spec
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/a6e921a4-cb25-4c3f-b016-aca4b5104bf2
+description: 'Development Containers: Use a container as a full-featured development environment.'
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
